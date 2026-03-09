@@ -27,7 +27,7 @@ The goal of this project is to demonstrate how **AI-powered voice automation** c
 
 # 🏗 System Architecture
 
-![System Architecture](system-architecture.png)
+![System_Architecture](System_Architecture.png)
 
 The system integrates multiple components to create a seamless automated workflow.
 
