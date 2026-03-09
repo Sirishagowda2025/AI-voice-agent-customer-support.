@@ -115,9 +115,6 @@ This process eliminates manual call handling for routine requests.
 
 ---
 
-
----
-
 # 💼 Business Use Cases
 
 This system can be implemented in various industries:
