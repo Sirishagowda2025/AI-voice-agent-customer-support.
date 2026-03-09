@@ -27,7 +27,7 @@ The goal of this project is to demonstrate how **AI-powered voice automation** c
 
 # 🏗 System Architecture
 
-![System_Architecture](System_Architecture.png)
+![System_Architecture](System_Architecture_.png)
 
 The system seamlessly integrates multiple components to deliver a fully automated customer support workflow. Upon receiving a call, the AI agent analyzes the conversation in real time and automatically triggers the appropriate downstream workflow, ensuring efficient and accurate handling of every customer interaction.
 
