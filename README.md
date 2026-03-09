@@ -27,7 +27,7 @@ The goal of this project is to demonstrate how **AI-powered voice automation** c
 
 # 🏗 System Architecture
 
-![System Architecture](System Architecture.png)
+![System Architecture](system-architecture.png)
 
 The system integrates multiple components to create a seamless automated workflow.
 
@@ -86,7 +86,7 @@ Below is the automation workflow used in this project.
 
 The workflow connects the voice agent with backend systems and processes customer requests automatically.
 
-![Automation Workflow](screenshots/automation-workflow.png)
+![Automation Workflow](automation-workflow.png)
 
 Typical automated actions include:
 
