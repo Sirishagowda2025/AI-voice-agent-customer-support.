@@ -97,12 +97,19 @@ This allows the system to function like a real support call center assistant.
 
 # 🔄 Workflow Process
 
-1. Customer calls the support number  
-2. Call connects via SIP telephony  
-3. AI voice agent answers the call  
-4. AI understands the customer’s request  
-5. Automation workflow is triggered  
-6. Support system is updated automatically  
+Customer Call
+     ↓
+SIP Telephony
+     ↓
+Vapi Voice Agent
+     ↓
+GPT-4o Processing
+     ↓
+Webhook
+     ↓
+Make.com Automation
+     ↓
+CRM / Notifications
 
 This process eliminates manual call handling for routine requests.
 
