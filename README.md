@@ -29,19 +29,7 @@ The goal of this project is to demonstrate how **AI-powered voice automation** c
 
 ![System_Architecture](System_Architecture.png)
 
-The system integrates multiple components to create a seamless automated workflow.
-
-Customer Call  
-↓  
-SIP Telephony Connection  
-↓  
-AI Voice Agent  
-↓  
-Automation Workflow  
-↓  
-Internal Systems / Support Tools
-
-The AI agent processes the conversation and triggers the appropriate workflow automatically.
+The system seamlessly integrates multiple components to deliver a fully automated customer support workflow. Upon receiving a call, the AI agent analyzes the conversation in real time and automatically triggers the appropriate downstream workflow, ensuring efficient and accurate handling of every customer interaction.
 
 ---
 
