@@ -95,26 +95,6 @@ This allows the system to function like a real support call center assistant.
 
 ---
 
-# 🔄 Workflow Process
-
-Customer Call
-     ↓
-SIP Telephony
-     ↓
-Vapi Voice Agent
-     ↓
-GPT-4o Processing
-     ↓
-Webhook
-     ↓
-Make.com Automation
-     ↓
-CRM / Notifications
-
-This process eliminates manual call handling for routine requests.
-
----
-
 # 💼 Business Use Cases
 
 This system can be implemented in various industries:
