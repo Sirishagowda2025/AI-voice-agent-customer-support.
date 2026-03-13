@@ -2,7 +2,7 @@
 
 A fully autonomous outbound calling system that reads leads from Google Sheets, places real phone calls via VAPI, conducts natural AI-driven conversations in English/Hindi/Kannada, and logs results back — all without human intervention.
 
-Built for **Reshu & Realty**, a premium property consulting company. Deployable for any business that handles high-volume outbound calling.
+Built for a premium property consulting company. Deployable for any business that handles high-volume outbound calling.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![VAPI](https://img.shields.io/badge/Voice-VAPI-blue)
