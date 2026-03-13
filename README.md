@@ -70,7 +70,7 @@ Built for a premium property consulting company. Deployable for any business tha
 | First Speaker | Assistant | Sarah speaks first |
 
 **Conversation Flow:**
-1. Greet caller, introduce as "Sarah from Reshu & Realty"
+1. Greet caller, introduce as "Sarah from Real Estate Company"
 2. Collect name → location preference → budget → property type → timeline
 3. Qualify lead seriousness
 4. Recommend property category based on answers
